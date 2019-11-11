@@ -1,0 +1,63 @@
+City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
+1,Busselton,AU,69.01,clear sky,-33.64,115.35,Observatory Guest House
+2,Jamestown,AU,78.06,clear sky,-33.21,138.6,Jamestown Motel Terraces
+3,Kolokani,ML,80.65,broken clouds,13.58,-8.03,Lycee Famolo Coulibalibali De Kolokani
+7,Los Llanos De Aridane,ES,69.8,broken clouds,28.66,-17.92,Valle Aridane
+9,Oussouye,SN,77.0,overcast clouds,12.49,-16.54,Auberge du Routard
+10,Sinor,IN,73.4,haze,21.91,73.34,Reva Forest Homestay
+12,Salgueiro,BR,81.12,broken clouds,-8.07,-39.12,Hotel Polo
+14,Montes Claros,BR,74.61,scattered clouds,-16.73,-43.87,Hotel ibis Montes Claros
+15,Codrington,AU,81.0,clear sky,-28.95,153.24,
+16,Dubbo,AU,78.8,scattered clouds,-32.25,148.6,Comfort Inn Blue Lagoon
+19,Puerto Ayora,EC,75.2,broken clouds,-0.74,-90.35,Finch Bay Galapagos Hotel
+23,Salinas,US,68.0,scattered clouds,36.67,-121.66,Good Nite Inn Salinas Monterey
+25,San Quintin,PH,75.99,clear sky,17.54,120.52,San Quintin River Resort
+27,Ati,TD,80.42,broken clouds,13.21,18.34,
+30,Kitgum,UG,67.87,clear sky,3.3,32.88,Jaflo Gardens Hotel
+31,Arica,CL,66.2,overcast clouds,-18.48,-70.32,Hostal Jardin Del Sol
+34,Awjilah,LY,68.27,broken clouds,29.14,21.3,استراحة التعاون أوجلة
+40,Griffith,AU,81.0,clear sky,-34.29,146.06,Econo Lodge Griffith Motor Inn
+42,Bilma,NE,75.56,overcast clouds,18.69,12.92,Expeditions Ténére voyages
+44,Kavaratti,IN,81.34,few clouds,10.57,72.64,Hotels in Lakshadweep Islands
+45,Wencheng,CN,69.33,clear sky,27.79,120.09,Sunlight Holiday Hotel
+47,Maba,CN,74.88,clear sky,24.68,113.59,Huayi Traders Hotel
+50,Pisco,PE,66.2,overcast clouds,-13.71,-76.2,Hostal San Isidro Oficial
+51,Chaozhou,CN,68.0,clear sky,23.66,116.62,hello inn
+52,Vila Do Maio,CV,75.2,few clouds,15.13,-23.22,Residence 'I Delfini'
+55,Maine-Soroa,NE,80.78,overcast clouds,13.21,12.02,
+58,Nioro,GM,79.65,scattered clouds,13.79,-15.05,
+59,Tanout,NE,80.11,overcast clouds,14.97,8.88,
+60,Maham,IN,69.12,overcast clouds,28.97,76.3,Kumhar Dharamsala
+61,Sao Filipe,CV,74.57,scattered clouds,14.9,-24.5,Tortuga B&B
+62,El Carrizo,MX,82.4,overcast clouds,28.21,-110.84,
+63,Itanhem,BR,65.89,few clouds,-17.17,-40.33,Hotel Resende
+66,Liuli,TZ,80.49,overcast clouds,-11.1,34.65,Josephs Dream Camp Site Beach
+67,Posse,BR,77.76,few clouds,-14.08,-46.36,Pousada das Palmeiras
+68,Gat,SN,77.0,overcast clouds,14.69,-16.54,
+71,Waingapu,ID,82.02,clear sky,-9.65,120.26,Pondok Wisata Elim
+72,Namibe,AO,74.86,clear sky,-15.19,12.15,Chik-Chik Namibe
+74,Rabak,SD,77.07,clear sky,13.18,32.74,فندق ربك Rabak Hotel
+75,Biltine,TD,73.11,clear sky,14.53,20.93,Hôtel Trois Étoiles de Biltine
+76,Dubai,AE,69.8,clear sky,25.27,55.3,"Radisson Blu Hotel, Dubai Deira Creek"
+80,Garowe,SO,70.59,clear sky,8.41,48.48,Curubo Hotel
+87,Daura,NG,75.56,overcast clouds,13.04,8.32,Takare Guest Inn
+91,Sacramento,US,73.4,clear sky,38.58,-121.49,Sheraton Grand Sacramento Hotel
+94,Ghatsila,IN,69.8,mist,22.65,86.41,Rajanigandha Guesthouse Galudih
+95,Itarema,BR,76.48,broken clouds,-2.92,-39.92,Windvillage
+97,Mildura,AU,84.99,clear sky,-34.18,142.16,Mercure Hotel Mildura
+98,Pipri,IN,71.74,clear sky,24.21,83.02,Sony Service Center
+99,Sindou,BF,75.43,scattered clouds,10.66,-5.16,LERABA HOTEL
+102,Umm Lajj,SA,79.14,overcast clouds,25.02,37.27,Tanal Hotel Apartment
+105,Pahrump,US,73.4,clear sky,36.21,-115.98,Best Western Pahrump Oasis
+106,Clarence Town,AU,82.0,clear sky,-32.59,151.78,River Downs Cottage
+109,Abalak,NE,79.59,overcast clouds,15.46,6.28,auberge de tenere
+110,Hirapur,IN,73.45,clear sky,24.37,79.21,"Apna Dhaba, Chali Raja, S/O Surat Singh"
+111,Tutoia,BR,73.65,few clouds,-2.76,-42.27,Pousada Guará's
+113,Mudgee,AU,75.0,clear sky,-32.6,149.59,Comfort Inn Aden Mudgee
+117,Atar,MR,70.18,clear sky,20.52,-13.05,Oumou Elghoura
+118,Barentu,ER,73.78,clear sky,15.11,37.59,
+119,Broken Hill,AU,78.8,clear sky,-31.97,141.45,Royal Exchange Hotel
+120,Ukiah,US,66.99,clear sky,39.15,-123.21,Hampton Inn Ukiah
+121,Kontagora,NG,75.06,broken clouds,10.4,5.47,City Gate Inn
+122,Takanabe,JP,69.8,few clouds,32.13,131.49,Hotel AZ Miyazaki Takanabe
+127,Lichinga,MZ,67.14,overcast clouds,-13.3,35.25,Resthouse Will Senjewe
